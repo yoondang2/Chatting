@@ -1,0 +1,15 @@
+{
+  "name": "gloomyday",
+  "version": "1.0.0",
+  "description": "chattingprogram",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "yoon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
